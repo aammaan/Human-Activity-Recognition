@@ -4,6 +4,10 @@
 You can find the dataset [link](https://drive.google.com/file/d/1lJk8WC08Q4yaWWG-8eRKZAN6LUdlp7Mm/view?usp=drive_link)
 
 
+<img src="https://github.com/aammaan/Human-Activity-Recognition/blob/main/image.png" alt="Classes" width="400"/>
+
+
+
 ## Abstract
 
 The Human Activity Recognition (HAR) model differentiates various human activities with broad applications across different domains. This project involves extensive data preprocessing and exploratory data analysis (EDA) on the HAR dataset, followed by applying Kernelized SVM to classify images into distinct activity classes.

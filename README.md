@@ -1,7 +1,7 @@
 
 # Human Activity Recognition using Kernelized SVM
 
-You can find the dataset [link](https://drive.google.com/file/d/1lJk8WC08Q4yaWWG-8eRKZAN6LUdlp7Mm/view?usp=drive_link)
+You can find the dataset here [link](https://drive.google.com/file/d/1lJk8WC08Q4yaWWG-8eRKZAN6LUdlp7Mm/view?usp=drive_link)
 
 
 <img src="https://github.com/aammaan/Human-Activity-Recognition/blob/main/image.png" alt="Classes" width="400"/>
